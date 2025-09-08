@@ -12,6 +12,8 @@ This repository contains two beginner-to-intermediate level **Machine Learning p
 ├── Cancer Prediction.ipynb
 ├── Movie Recommendation.ipynb
 └── README.md
+
+
 📒 Notebooks Overview
 🔬 1. Cancer Prediction
 
@@ -44,3 +46,8 @@ Content-based filtering using cosine similarity
 Recommend top-N movies for a given input movie
 
 ✅ Result: Personalized movie recommendations.
+
+The project dependencies are listed in requirements.txt:
+Run the notebooks in Jupyter:jupyter notebook
+Contributions are welcome! Feel free to fork this repo, make improvements, and submit a pull request.
+
